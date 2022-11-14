@@ -1,0 +1,20 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.7",
+  "service": "Cizgimania",
+  "author": {
+    "id": "1023631759998455918",
+    "name": "Personality#0101"
+  },
+  "description": {
+    "en": "Cizgimania strives to create online experiences that everyone can enjoy."
+  },
+  "url": "cizgimania.com",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/FhXM1zf.png",
+  "thumbnail": "https://i.imgur.com/yYeT67E.png",
+  "color": "#c29f6d",
+  "tags": [
+    "cizgimania"
+  ],
+  "category": "videos"
+}
